@@ -13,6 +13,6 @@ on Ideal case it stops with 4000 to 5000 peoples with little changes for coming 
 
 ![Screenshot](India_Estimated.png)
 
-Italy have reached their final stages. so Logistical Curve may hold true. As almost 0.2% of their population got infected as per government sources. Whereas in India recorded Infected peoples are 0.000118623% only.
+Italy have reached their final stages. so Logistical Curve may hold true. As almost 20% of their population got infected as per government sources. Whereas in India recorded Infected peoples are 0.012% only.
 
 ![Screenshot](Italy_Estimated.png)
