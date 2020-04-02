@@ -38,7 +38,7 @@ sol = int(fsolve(lambda x : logistic_model(x,a,b,c) - int(c),b))
 def exponential_model(x,a,b,c):
     return a*np.exp(b*(x-c))
 
-exp_fit = curve_fit(exponential_model,x,y,p0=[1,1,1])
+exp_fit = curve_fit(exponential_model,x,y,p0=[1,1,1], maxfev=10000)
 
 pred_x = list(range(max(x),sol))
 plt.rcParams['figure.figsize'] = [7, 7]
